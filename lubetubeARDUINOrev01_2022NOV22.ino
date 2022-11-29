@@ -105,7 +105,7 @@ void loop() {  // put your main code here, to run repeatedly:
   Serial.print("Button1 Raw val : ");
   Serial.println(button1Pin);
 
-  // Main logic
+  // Main logics
   // button pressed - no movement and potentiometers free to calibrate,
   // Button released - checks for potentiometer movement and then opens relays based on movement scalar
   if (buttonState == HIGH) {
