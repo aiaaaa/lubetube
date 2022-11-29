@@ -20,5 +20,7 @@ Rev1
 See video - XXXXXX
 This revision utilizes 3 server motors to pull the top glass up and down
 
+I will describe here the layout, pin setup, and general overview
+
 Rev2
 This future revision with utilize stepper motors to give smoother control
