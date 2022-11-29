@@ -1,0 +1,1 @@
+License pending, looking to utilize an open sourse license, where you simply have to reference this project. Pay it forward, and I would love to hear if this inspired you, or if you have a similar project.
