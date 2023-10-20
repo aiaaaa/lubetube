@@ -5,6 +5,9 @@ lubetube is an homage to the classic americana 1960s artform 'liquid lightshow'
 Please see our youtube page for some setup pictures, as well as recorded art from the setup:
 https://www.youtube.com/@lubetubeliquidlightshow/playlists
 
+
+![OverViewRev1](https://user-images.githubusercontent.com/38403966/204412970-02223ea1-54f3-4933-b9f7-65615b919093.jpg)
+
 ___________________________________________
 More on the hardware project:
 https://github.com/aiaaaa/lubetube
