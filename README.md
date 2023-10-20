@@ -1,4 +1,4 @@
-# lubetube
+# LUBETUBE
 ___________________________________________
 Hello World! Welcome to the README for the lubetube project (formerly the Liquid Lightsho Arduino)
 lubetube is an homage to the classic americana 1960s artform 'liquid lightshow'
